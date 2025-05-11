@@ -1,6 +1,11 @@
-# 💫 About Me:
-👋 Hi there! I'm a Software Engineer & Indie Game Developer<br><br>I'm passionate about building clean, efficient software and crafting engaging game experiences. Currently diving deeper into Xamarin for mobile development and Unity for game creation. I enjoy transforming ideas into functional, real-world projects.<br><br>💻 Tech Stack:<br>C# | .NET | Xamarin (learning) | Unity (learning) | MySQL | MSSQL | Git<br><br>🚀 What I Do:<br><br>Build cross-platform apps using .NET<br><br>Explore game development with Unity<br><br>Manage databases with MySQL & MSSQL<br><br>Collaborate and version control with Git<br><br>🤝 Open to Collaboration<br>I'm always open to connecting with fellow developers, artists, or creatives. Whether it’s a game jam, a side project, or a learning opportunity—feel free to reach out!
-
+# 💫 Hey , I catch you
+## 🐱‍🚀 Hey my name Hadist
+<p>👋 Hi there! I'm a Software Engineer & Indie Game Developer<br><br>I'm passionate about building clean, efficient software and crafting engaging game experiences. Currently diving deeper into Xamarin for mobile development and Unity for game creation. I enjoy transforming ideas into functional, real-world projects.<br><br><b>💻 Tech Stack:</b><br>C# | .NET | Xamarin (learning) | Unity (learning) | MySQL | MSSQL | Git<br><br><b>🚀 What I Do:</b>
+    <li>Build cross-platform apps using .NET 🚀</li>
+    <li>Explore game development with Unity 🎮👨‍💻</li>
+    <li>Manage databases with MySQL & MSSQL 🗳</li>
+    <li>Collaborate and version control with Git   👭</li>
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_hdstxr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ipanjabar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ipanjabar933@gmail.com) 
