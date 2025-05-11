@@ -1,6 +1,6 @@
 # 💫 Hey , I catch you
 ## 🐱‍🚀 Hey my name Hadist
-<p>👋 Hi there! I'm a Software Engineer & Indie Game Developer<br><br>I'm passionate about building clean, efficient software and crafting engaging game experiences. Currently diving deeper into Xamarin for mobile development and Unity for game creation. I enjoy transforming ideas into functional, real-world projects.<br><br><b>💻 Tech Stack:</b><br>C# | .NET | Xamarin (learning) | Unity (learning) | MySQL | MSSQL | Git<br><br><b>🚀 What I Do:</b>
+<p>👋 Hi there! I'm a Software Engineer & Indie Game Developer<br><br>I'm passionate about building clean, efficient software and crafting engaging game experiences. Currently diving deeper into Xamarin for mobile development and Unity for game creation. I enjoy transforming ideas into functional, real-world projects.<br><br><b>💻 Tech Stack:</b><br>C# | .NET | Xamarin | Unity | MySQL | MSSQL | Git<br><br><b>🚀 What I Do:</b>
     <li>Build cross-platform apps using .NET 🚀</li>
     <li>Explore game development with Unity 🎮👨‍💻</li>
     <li>Manage databases with MySQL & MSSQL 🗳</li>
