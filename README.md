@@ -13,11 +13,6 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_hdstxr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ipanjabar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ipanjabar933@gmail.com) 
 
-# GitHub README Chess Tournament
-
-This is an open chess tournament where ANYONE can play. That's the fun part.  
-It's your turn to play! Move a <!-- BEGIN TURN -->?<!-- END TURN --> piece.
-
 <!-- BEGIN CHESS BOARD -->
 (Here goes the chess board)
 <!-- END CHESS BOARD -->
