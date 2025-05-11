@@ -7,6 +7,8 @@
     <li>Collaborate and version control with Git   👭</li>
 </p>
 
+![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGI4cTh3OHlzOG1odW4zamFoa2R2NHp4Zml6dWdqZXFnbHM5eXh4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zd76Z18lDrjy0/giphy.gif)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_hdstxr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ipanjabar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ipanjabar933@gmail.com) 
 
