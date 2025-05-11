@@ -7,10 +7,53 @@
     <li>Collaborate and version control with Git   👭</li>
 </p>
 
+
 ![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGI4cTh3OHlzOG1odW4zamFoa2R2NHp4Zml6dWdqZXFnbHM5eXh4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zd76Z18lDrjy0/giphy.gif)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_hdstxr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ipanjabar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ipanjabar933@gmail.com) 
+
+# GitHub README Chess Tournament
+
+This is an open chess tournament where ANYONE can play. That's the fun part.  
+It's your turn to play! Move a <!-- BEGIN TURN -->?<!-- END TURN --> piece.
+
+<!-- BEGIN CHESS BOARD -->
+(Here goes the chess board)
+<!-- END CHESS BOARD -->
+
+**It's your turn to move! Choose one from the following table**
+<!-- BEGIN MOVES LIST -->
+(Here goes the list of legal moves)
+<!-- END MOVES LIST -->
+
+Having fun? Ask a friend to do the next move!
+
+#### How it works
+
+When you click on a link and submit a new issue with the desired move, a GitHub action is triggered, which in turn runs a small python script that performs the specified movement, updates this README file and commits the changes.
+
+Have you spotted a bug? Something missing? Feel free to open an [issue](https://github.com/marcizhu/readme-chess/issues) and I will try to fix it as soon as possible :D
+
+
+<details>
+  <summary>Last 5 moves in this game</summary>
+<!-- BEGIN LAST MOVES -->
+(Here goes the list of the last 5 moves)
+<!-- END LAST MOVES -->
+</details>
+
+<details>
+  <summary>Top 10 most moves across all games</summary>
+<!-- BEGIN TOP MOVES -->
+(Here goes the top 10 most moves)
+<!-- END TOP MOVES -->
+</details>
+
+---
+
+Do you want to make your own? Check out [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)!
+
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
