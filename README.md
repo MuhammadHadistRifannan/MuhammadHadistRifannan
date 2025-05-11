@@ -27,6 +27,7 @@
 
 ![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGI4cTh3OHlzOG1odW4zamFoa2R2NHp4Zml6dWdqZXFnbHM5eXh4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FIZ1QC610AAhi/giphy.gif)
 ---
+# COMMITS OVER YEAR
 [![](https://visitcount.itsvg.in/api?id=MuhammadHadistRifannan&icon=10&color=3)](https://visitcount.itsvg.in)
 <img src="https://raw.githubusercontent.com/MuhammadHadistRifannan/MuhammadHadistRifannan/output/snake.svg" alt="Snake animation" />
 
